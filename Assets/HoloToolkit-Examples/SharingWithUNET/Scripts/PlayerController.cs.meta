@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc70810d3cb39344082e8260109313bc
+timeCreated: 1496901684
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 1000013437630216, guid: 6a6a392245d7dae4c89796a071de781c, type: 2}
+  - eyeTrackerHandler: {fileID: 1725828175521050, guid: eceecee693ce9b941a8c5e34492c8caf,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

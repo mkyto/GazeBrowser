@@ -1,0 +1,2 @@
+userID;timeStamp;trainingIsOn;condition;targetOrder;repetition;targetPos_x;targetPos_y;cursor_x;cursor_y;isRefining
+
